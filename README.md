@@ -1,1 +1,1 @@
-# Library-Management-System
+The main aim and objective of our project is, it’s a web-based application where students can reserve/request a book and whenever they are free they can go and get it from the library. The main intent for designing and developing this project is to maintain a computerized detail of the books present in the library. And the interface helps the students to check the availability of the book in advance without going to the library.
